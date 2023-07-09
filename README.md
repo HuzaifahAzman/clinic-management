@@ -25,7 +25,6 @@ RUN PROJECT
 There will be several sides for the website. Admin, Patient, Doctor and Pharmacist
 
 Below are the username and password for the following users.
-
 Admin(s):-
 1. nikadamdanish@gmail.com (password: nikadam99)
 
